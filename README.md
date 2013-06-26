@@ -1,4 +1,0 @@
-mzero
-=====
-
-Manifesto Zero
