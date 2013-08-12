@@ -3,9 +3,8 @@
  
   <title>mZero</title>
   <link href="http://mzero.co/"/>
-  <description>Ideias para Simplificar</description>
   <link type="application/atom+xml" rel="self" href="http://mzero.co/atom.atom"/>
-  <updated>Mon, 12 Aug 2013 15:35:33 +0100</updated>
+  <updated>Mon, 12 Aug 2013 15:43:26 +0100</updated>
   <id>http://mzero.co/</id>
   <author>
     <name>Lourenco de Azevedo</name>
@@ -20,7 +19,7 @@
     <published>Sat ,10 Aug 2013 00:00:00 +0100</published>
     <updated>Sat, 10 Aug 2013 00:00:00 +0100</updated>
     <author>
-      <name>Lourenco de Azevedo</name>
+      <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
     <content type="html">&lt;h3 id='s_mais_uma_coisa'&gt;Só mais uma coisa&amp;#8230;&lt;/h3&gt;
@@ -53,7 +52,7 @@
     <published>Fri ,09 Aug 2013 00:00:00 +0100</published>
     <updated>Fri, 09 Aug 2013 00:00:00 +0100</updated>
     <author>
-      <name>Lourenco de Azevedo</name>
+      <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
     <content type="html">&lt;h3 id='emagrecer_e_simplificar'&gt;Emagrecer e simplificar&lt;/h3&gt;
@@ -132,7 +131,7 @@
     <published>Mon ,15 Jul 2013 00:00:00 +0100</published>
     <updated>Mon, 15 Jul 2013 00:00:00 +0100</updated>
     <author>
-      <name>Lourenco de Azevedo</name>
+      <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
     <content type="html">&lt;h3 id='recomear'&gt;Recomeçar&lt;/h3&gt;
@@ -173,7 +172,7 @@
     <published>Tue ,02 Jul 2013 00:00:00 +0100</published>
     <updated>Tue, 02 Jul 2013 00:00:00 +0100</updated>
     <author>
-      <name>Lourenco de Azevedo</name>
+      <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
     <content type="html">&lt;h3 id='gritar_no_nos_torna_mais_visveis'&gt;Gritar não nos torna mais visíveis&lt;/h3&gt;
@@ -198,7 +197,7 @@
     <published>Mon ,24 Jun 2013 00:00:00 +0100</published>
     <updated>Mon, 24 Jun 2013 00:00:00 +0100</updated>
     <author>
-      <name>Lourenco de Azevedo</name>
+      <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
     <content type="html">&lt;h3 id='sabe_o_que_significa_vicria'&gt;Sabe o que significa Vicária?&lt;/h3&gt;
@@ -237,7 +236,7 @@
     <published>Mon ,17 Jun 2013 00:00:00 +0100</published>
     <updated>Mon, 17 Jun 2013 00:00:00 +0100</updated>
     <author>
-      <name>Lourenco de Azevedo</name>
+      <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
     <content type="html">&lt;h3 id='utilizador_ou_criador'&gt;Utilizador ou Criador?&lt;/h3&gt;
@@ -300,7 +299,7 @@
     <published>Tue ,04 Jun 2013 00:00:00 +0100</published>
     <updated>Tue, 04 Jun 2013 00:00:00 +0100</updated>
     <author>
-      <name>Lourenco de Azevedo</name>
+      <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
     <content type="html">&lt;h3 id='chamase_andy_marshall_e__mecnico_de_avies'&gt;Chama-se Andy Marshall e é mecânico de aviões&lt;/h3&gt;
@@ -359,7 +358,7 @@
     <published>Sat ,01 Jun 2013 00:00:00 +0100</published>
     <updated>Sat, 01 Jun 2013 00:00:00 +0100</updated>
     <author>
-      <name>Lourenco de Azevedo</name>
+      <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
     <content type="html">&lt;h3 id='aprender_a_focar'&gt;Aprender a focar&lt;/h3&gt;
@@ -488,7 +487,7 @@
     <published>Mon ,27 May 2013 00:00:00 +0100</published>
     <updated>Mon, 27 May 2013 00:00:00 +0100</updated>
     <author>
-      <name>Lourenco de Azevedo</name>
+      <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
     <content type="html">&lt;h3 id='compreender_para_simplificar'&gt;Compreender para simplificar&lt;/h3&gt;
