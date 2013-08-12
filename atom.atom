@@ -4,7 +4,7 @@
   <title>mZero</title>
   <link href="http://mzero.co/"/>
   <link type="application/atom+xml" rel="self" href="http://mzero.co/atom.atom"/>
-  <updated>Mon, 12 Aug 2013 15:59:26 +0100</updated>
+  <updated>2013-08-12T16:59:47+01:00</updated>
   <id>http://mzero.co/</id>
   <author>
     <name>Lourenco de Azevedo</name>
@@ -16,8 +16,8 @@
     <id>http://mzero.co/2013/08/10/coisa</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/08/10/coisa.html"/>
     <title>Só mais uma coisa...</title>
-    <pubdate>Sat, 10 Aug 2013 00:00:00 +0100</pubdate>
-    <updated>Sat, 10 Aug 2013 00:00:00 +0100</updated>
+    <pubdate>2013-08-10T00:00:00+01:00</pubdate>
+    <updated>2013-08-10T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -49,8 +49,8 @@
     <id>http://mzero.co/2013/08/09/emagrecer</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/08/09/emagrecer.html"/>
     <title>Emagrecer e simplificar</title>
-    <pubdate>Fri, 09 Aug 2013 00:00:00 +0100</pubdate>
-    <updated>Fri, 09 Aug 2013 00:00:00 +0100</updated>
+    <pubdate>2013-08-09T00:00:00+01:00</pubdate>
+    <updated>2013-08-09T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -128,8 +128,8 @@
     <id>http://mzero.co/2013/07/15/recomecar</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/07/15/recomecar.html"/>
     <title>Recomeçar</title>
-    <pubdate>Mon, 15 Jul 2013 00:00:00 +0100</pubdate>
-    <updated>Mon, 15 Jul 2013 00:00:00 +0100</updated>
+    <pubdate>2013-07-15T00:00:00+01:00</pubdate>
+    <updated>2013-07-15T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -169,8 +169,8 @@
     <id>http://mzero.co/2013/07/02/gritar</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/07/02/gritar.html"/>
     <title>Gritar não nos torna mais visíveis</title>
-    <pubdate>Tue, 02 Jul 2013 00:00:00 +0100</pubdate>
-    <updated>Tue, 02 Jul 2013 00:00:00 +0100</updated>
+    <pubdate>2013-07-02T00:00:00+01:00</pubdate>
+    <updated>2013-07-02T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -194,8 +194,8 @@
     <id>http://mzero.co/2013/06/24/vicaria</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/24/vicaria.html"/>
     <title>Sabe o que significa Vicária?</title>
-    <pubdate>Mon, 24 Jun 2013 00:00:00 +0100</pubdate>
-    <updated>Mon, 24 Jun 2013 00:00:00 +0100</updated>
+    <pubdate>2013-06-24T00:00:00+01:00</pubdate>
+    <updated>2013-06-24T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -233,8 +233,8 @@
     <id>http://mzero.co/2013/06/17/utilizador-criador</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/17/utilizador-criador.html"/>
     <title>Utilizador ou Criador?</title>
-    <pubdate>Mon, 17 Jun 2013 00:00:00 +0100</pubdate>
-    <updated>Mon, 17 Jun 2013 00:00:00 +0100</updated>
+    <pubdate>2013-06-17T00:00:00+01:00</pubdate>
+    <updated>2013-06-17T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -296,8 +296,8 @@
     <id>http://mzero.co/2013/06/04/andy</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/04/andy.html"/>
     <title>Chama-se Andy Marshall e é mecânico de aviões</title>
-    <pubdate>Tue, 04 Jun 2013 00:00:00 +0100</pubdate>
-    <updated>Tue, 04 Jun 2013 00:00:00 +0100</updated>
+    <pubdate>2013-06-04T00:00:00+01:00</pubdate>
+    <updated>2013-06-04T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -355,8 +355,8 @@
     <id>http://mzero.co/2013/06/01/aprender-a-focar</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/01/aprender-a-focar.html"/>
     <title>Aprender a focar</title>
-    <pubdate>Sat, 01 Jun 2013 00:00:00 +0100</pubdate>
-    <updated>Sat, 01 Jun 2013 00:00:00 +0100</updated>
+    <pubdate>2013-06-01T00:00:00+01:00</pubdate>
+    <updated>2013-06-01T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -484,8 +484,8 @@
     <id>http://mzero.co/2013/05/27/compreender-para-simplificar</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/05/27/compreender-para-simplificar.html"/>
     <title>Compreender para simplificar</title>
-    <pubdate>Mon, 27 May 2013 00:00:00 +0100</pubdate>
-    <updated>Mon, 27 May 2013 00:00:00 +0100</updated>
+    <pubdate>2013-05-27T00:00:00+01:00</pubdate>
+    <updated>2013-05-27T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
