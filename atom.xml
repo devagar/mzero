@@ -1,14 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>mZero</title>
-		<description>Ideias para simplificar</description>
-		<link>http://mzero.co</link>
-		<atom:link href="http://mzero.co/feed.xml" rel="self" type="application/rss+xml" />
-		
-				<item>
-					<title>Só mais uma coisa...</title>
-					<description>&lt;h3 id='s_mais_uma_coisa'&gt;Só mais uma coisa&amp;#8230;&lt;/h3&gt;
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Your Website</title>
+  <link href="http://mzero.co/"/>
+  <link type="application/atom+xml" rel="self" href="http://mzero.co/atom.xml"/>
+  <updated>2013-08-12T10:44:37+01:00</updated>
+  <id>http://mzero.co/</id>
+  <author>
+    <name>Lourenco de Azevedo</name>
+    <email>lourencoazevedo@devagar.org</email>
+  </author>
+
+  
+  <entry>
+    <id>http://mzero.co/2013/08/10/coisa</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/08/10/coisa.html"/>
+    <title>Só mais uma coisa...</title>
+    <published>2013-08-10T00:00:00+01:00</published>
+    <updated>2013-08-10T00:00:00+01:00</updated>
+    <author>
+      <name>Lourenco de Azevedo</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;h3 id='s_mais_uma_coisa'&gt;Só mais uma coisa&amp;#8230;&lt;/h3&gt;
 
 &lt;p&gt;É a frase que aparentemente surge para melhorar algo mas que acaba por criar o efeito inverso.&lt;/p&gt;
 
@@ -28,15 +42,20 @@
 
 &lt;p&gt;Este blog tem mais &amp;#8220;uma coisa&amp;#8221;, invisível mas importante. A sua distribuição é a partir de hoje feita de forma mais legível para as vossas caixas de correio.&lt;/p&gt;
 
-&lt;p&gt;Alter do Chão, 10 de Agosto de 2013.&lt;/p&gt;</description>
-					<pubDate>Sat, 10 Aug 2013 00:00:00 +0100</pubDate>
-					<link>http://mzero.co/2013/08/10/coisa.html</link>
-					<guid isPermaLink="true">http://mzero.co/2013/08/10/coisa.html</guid>
-				</item>
-		
-				<item>
-					<title>Emagrecer e simplificar</title>
-					<description>&lt;h3 id='emagrecer_e_simplificar'&gt;Emagrecer e simplificar&lt;/h3&gt;
+&lt;p&gt;Alter do Chão, 10 de Agosto de 2013.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://mzero.co/2013/08/09/emagrecer</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/08/09/emagrecer.html"/>
+    <title>Emagrecer e simplificar</title>
+    <published>2013-08-09T00:00:00+01:00</published>
+    <updated>2013-08-09T00:00:00+01:00</updated>
+    <author>
+      <name>Lourenco de Azevedo</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;h3 id='emagrecer_e_simplificar'&gt;Emagrecer e simplificar&lt;/h3&gt;
 
 &lt;p&gt;Um excesso de 3500 calorias dia para além do que o corpo consegue metabolizar corresponde a cerca de 500 g de gordura acumulada.&lt;/p&gt;
 
@@ -102,15 +121,20 @@
 
 &lt;p&gt;Onde vai aplicar os seus 10 minutos hoje?&lt;/p&gt;
 
-&lt;p&gt;Alter do Chão, 9 de Agosto de 2013.&lt;/p&gt;</description>
-					<pubDate>Fri, 09 Aug 2013 00:00:00 +0100</pubDate>
-					<link>http://mzero.co/2013/08/09/emagrecer.html</link>
-					<guid isPermaLink="true">http://mzero.co/2013/08/09/emagrecer.html</guid>
-				</item>
-		
-				<item>
-					<title>Recomeçar</title>
-					<description>&lt;h3 id='recomear'&gt;Recomeçar&lt;/h3&gt;
+&lt;p&gt;Alter do Chão, 9 de Agosto de 2013.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://mzero.co/2013/07/15/recomecar</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/07/15/recomecar.html"/>
+    <title>Recomeçar</title>
+    <published>2013-07-15T00:00:00+01:00</published>
+    <updated>2013-07-15T00:00:00+01:00</updated>
+    <author>
+      <name>Lourenco de Azevedo</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;h3 id='recomear'&gt;Recomeçar&lt;/h3&gt;
 
 &lt;p&gt;Se estamos em férias pode ser a altura ideal para quebrar hábitos antigos iniciando outros.&lt;/p&gt;
 
@@ -138,15 +162,20 @@
 
 &lt;p&gt;Tal como quem cultiva a terra e a disponibiliza para a próxima colheita.&lt;/p&gt;
 
-&lt;p&gt;Lisboa, 15 de Julho de 2013.&lt;/p&gt;</description>
-					<pubDate>Mon, 15 Jul 2013 00:00:00 +0100</pubDate>
-					<link>http://mzero.co/2013/07/15/recomecar.html</link>
-					<guid isPermaLink="true">http://mzero.co/2013/07/15/recomecar.html</guid>
-				</item>
-		
-				<item>
-					<title>Gritar não nos torna mais visíveis</title>
-					<description>&lt;h3 id='gritar_no_nos_torna_mais_visveis'&gt;Gritar não nos torna mais visíveis&lt;/h3&gt;
+&lt;p&gt;Lisboa, 15 de Julho de 2013.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://mzero.co/2013/07/02/gritar</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/07/02/gritar.html"/>
+    <title>Gritar não nos torna mais visíveis</title>
+    <published>2013-07-02T00:00:00+01:00</published>
+    <updated>2013-07-02T00:00:00+01:00</updated>
+    <author>
+      <name>Lourenco de Azevedo</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;h3 id='gritar_no_nos_torna_mais_visveis'&gt;Gritar não nos torna mais visíveis&lt;/h3&gt;
 
 &lt;p&gt;Hoje anulei a minha subscrição no G+, limpei a minha wall no Facebook e tomei a decisão de continuar a promoção do &lt;a href='https://www.google.com'&gt;Retiro Urbano&lt;/a&gt; essencialmente por email. Retirei também o mZero de qualquer rede social.&lt;/p&gt;
 
@@ -158,15 +187,20 @@
 
 &lt;p&gt;Surge a questão: onde queremos colocar a nossa atenção? Em visitas constantes à nossa página para verificar o nosso status ou utilizar esse tempo para fazer o trabalho que realmente importa.&lt;/p&gt;
 
-&lt;p&gt;Alter do Chão 2 de Julho de 2013&lt;/p&gt;</description>
-					<pubDate>Tue, 02 Jul 2013 00:00:00 +0100</pubDate>
-					<link>http://mzero.co/2013/07/02/gritar.html</link>
-					<guid isPermaLink="true">http://mzero.co/2013/07/02/gritar.html</guid>
-				</item>
-		
-				<item>
-					<title>Sabe o que significa Vicária?</title>
-					<description>&lt;h3 id='sabe_o_que_significa_vicria'&gt;Sabe o que significa Vicária?&lt;/h3&gt;
+&lt;p&gt;Alter do Chão 2 de Julho de 2013&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://mzero.co/2013/06/24/vicaria</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/24/vicaria.html"/>
+    <title>Sabe o que significa Vicária?</title>
+    <published>2013-06-24T00:00:00+01:00</published>
+    <updated>2013-06-24T00:00:00+01:00</updated>
+    <author>
+      <name>Lourenco de Azevedo</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;h3 id='sabe_o_que_significa_vicria'&gt;Sabe o que significa Vicária?&lt;/h3&gt;
 
 &lt;p&gt;Significa passar por uma experiência sobre forma de imaginação a partir dos sentimentos ou ações de uma outra pessoa.&lt;/p&gt;
 
@@ -192,15 +226,20 @@
 
 &lt;p&gt;&lt;strong&gt;E porque não?&lt;/strong&gt; (opcional - faça o sorriso da sua personagem preferida.)&lt;/p&gt;
 
-&lt;p&gt;Lisboa, 26 de Junho de 2013&lt;/p&gt;</description>
-					<pubDate>Mon, 24 Jun 2013 00:00:00 +0100</pubDate>
-					<link>http://mzero.co/2013/06/24/vicaria.html</link>
-					<guid isPermaLink="true">http://mzero.co/2013/06/24/vicaria.html</guid>
-				</item>
-		
-				<item>
-					<title>Utilizador ou Criador?</title>
-					<description>&lt;h3 id='utilizador_ou_criador'&gt;Utilizador ou Criador?&lt;/h3&gt;
+&lt;p&gt;Lisboa, 26 de Junho de 2013&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://mzero.co/2013/06/17/utilizador-criador</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/17/utilizador-criador.html"/>
+    <title>Utilizador ou Criador?</title>
+    <published>2013-06-17T00:00:00+01:00</published>
+    <updated>2013-06-17T00:00:00+01:00</updated>
+    <author>
+      <name>Lourenco de Azevedo</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;h3 id='utilizador_ou_criador'&gt;Utilizador ou Criador?&lt;/h3&gt;
 
 &lt;p&gt;Numa viagem Porto -&amp;gt; Lisboa que durou cerca de três horas pela auto estrada fez-me viajar pelo tempo e por outras viagens que realizei no passado, sem autoestrada, com recurso a mapas e um tempo bastante superior de deslocação entre partida e chegada.&lt;/p&gt;
 
@@ -250,15 +289,20 @@
 
 &lt;p&gt;Aceitam o desafio?&lt;/p&gt;
 
-&lt;p&gt;Alter do Chão, 17 de Junho 2013&lt;/p&gt;</description>
-					<pubDate>Mon, 17 Jun 2013 00:00:00 +0100</pubDate>
-					<link>http://mzero.co/2013/06/17/utilizador-criador.html</link>
-					<guid isPermaLink="true">http://mzero.co/2013/06/17/utilizador-criador.html</guid>
-				</item>
-		
-				<item>
-					<title>Chama-se Andy Marshall e é mecânico de aviões</title>
-					<description>&lt;h3 id='chamase_andy_marshall_e__mecnico_de_avies'&gt;Chama-se Andy Marshall e é mecânico de aviões&lt;/h3&gt;
+&lt;p&gt;Alter do Chão, 17 de Junho 2013&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://mzero.co/2013/06/04/andy</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/04/andy.html"/>
+    <title>Chama-se Andy Marshall e é mecânico de aviões</title>
+    <published>2013-06-04T00:00:00+01:00</published>
+    <updated>2013-06-04T00:00:00+01:00</updated>
+    <author>
+      <name>Lourenco de Azevedo</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;h3 id='chamase_andy_marshall_e__mecnico_de_avies'&gt;Chama-se Andy Marshall e é mecânico de aviões&lt;/h3&gt;
 
 &lt;p&gt;Este engenheiro da companhia EasyJet ganhou o prémio Spirit Awards pelo seu desempenho em 2012.&lt;/p&gt;
 
@@ -304,15 +348,20 @@
 
 &lt;p&gt;Querem partilhar a vossa conspiração evolucionária? &lt;a href='mailto:lourencoazevedo@gmail.com'&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Num voo entre Amesterdão e Portugal, 4 de Junho 2013&lt;/p&gt;</description>
-					<pubDate>Tue, 04 Jun 2013 00:00:00 +0100</pubDate>
-					<link>http://mzero.co/2013/06/04/andy.html</link>
-					<guid isPermaLink="true">http://mzero.co/2013/06/04/andy.html</guid>
-				</item>
-		
-				<item>
-					<title>Aprender a focar</title>
-					<description>&lt;h3 id='aprender_a_focar'&gt;Aprender a focar&lt;/h3&gt;
+&lt;p&gt;Num voo entre Amesterdão e Portugal, 4 de Junho 2013&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://mzero.co/2013/06/01/aprender-a-focar</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/01/aprender-a-focar.html"/>
+    <title>Aprender a focar</title>
+    <published>2013-06-01T00:00:00+01:00</published>
+    <updated>2013-06-01T00:00:00+01:00</updated>
+    <author>
+      <name>Lourenco de Azevedo</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;h3 id='aprender_a_focar'&gt;Aprender a focar&lt;/h3&gt;
 
 &lt;p&gt;A ideia que pode ser transmitida do foco é a do samurai que consegue apesar de todas as adversidades manter o seu caminho resultado de uma concentração sobre-humana.&lt;/p&gt;
 
@@ -428,15 +477,20 @@
 
 &lt;p&gt;Partilhem comigo as vossas descobertas - &lt;a href='mailto:lourencoazevedo@gmail.com'&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Amsterdão, 1 de Junho de 2013&lt;/p&gt;</description>
-					<pubDate>Sat, 01 Jun 2013 00:00:00 +0100</pubDate>
-					<link>http://mzero.co/2013/06/01/aprender-a-focar.html</link>
-					<guid isPermaLink="true">http://mzero.co/2013/06/01/aprender-a-focar.html</guid>
-				</item>
-		
-				<item>
-					<title>Compreender para simplificar</title>
-					<description>&lt;h3 id='compreender_para_simplificar'&gt;Compreender para simplificar&lt;/h3&gt;
+&lt;p&gt;Amsterdão, 1 de Junho de 2013&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://mzero.co/2013/05/27/compreender-para-simplificar</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/05/27/compreender-para-simplificar.html"/>
+    <title>Compreender para simplificar</title>
+    <published>2013-05-27T00:00:00+01:00</published>
+    <updated>2013-05-27T00:00:00+01:00</updated>
+    <author>
+      <name>Lourenco de Azevedo</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;h3 id='compreender_para_simplificar'&gt;Compreender para simplificar&lt;/h3&gt;
 
 &lt;p&gt;Em Maio de 2013 numa sexta-feira preparava-me para escrever um post no meu blog a &lt;a href='http://devagar.org/chikung'&gt;Arte do Cultivo da Quietude&lt;/a&gt;, quando teclei o endereço foi-me informado que o site tinha sido alvo de um ataque informático e estava suspenso por tempo indeterminado.&lt;/p&gt;
 
@@ -484,11 +538,8 @@
 
 &lt;p&gt;Fica o desafio para esta semana.&lt;/p&gt;
 
-&lt;p&gt;Lisboa 27 de Maio de 2013&lt;/p&gt;</description>
-					<pubDate>Mon, 27 May 2013 00:00:00 +0100</pubDate>
-					<link>http://mzero.co/2013/05/27/compreender-para-simplificar.html</link>
-					<guid isPermaLink="true">http://mzero.co/2013/05/27/compreender-para-simplificar.html</guid>
-				</item>
-		
-	</channel>
-</rss>
+&lt;p&gt;Lisboa 27 de Maio de 2013&lt;/p&gt;</content>
+  </entry>
+  
+ 
+</feed>
