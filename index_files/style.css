@@ -14,13 +14,20 @@ h4,
 h5 {
   font-family: Helvetica, Arial sans-serif;
 }
-p,
-li {
-  font-family: Georgia, serif;
-}
 
 p {
-  font-size: 18px; line-height: 25px; margin-bottom: 14px;
+  font-family: Georgia, serif;
+  font-size: 18px; 
+  line-height: 25px; 
+  margin-bottom: 14px;
+}
+
+li {
+  font-family: Georgia, serif;
+  font-size: 18px;
+  line-height: 25px; 
+  margin-bottom: 14px;
+  margin-left: 25px;
 }
 
 .profile {
@@ -46,7 +53,7 @@ p {
   border-top: 1px solid #272727;
 }
 .navbar p,
-li {
+ {
   margin: 0;
   padding: 0;
 }
