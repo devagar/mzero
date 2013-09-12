@@ -7,7 +7,7 @@ exclude:     []
 name: mZero
 description: Ideias para simplificar
 url: http://mzero.co
-baseurl: /http://mzero.co
+
 safe: true
 lsi: false
 pygments: true
