@@ -18,7 +18,7 @@ h5 {
 p {
   font-family: Georgia, serif;
   font-size: 18px; 
-  line-height: 25px; 
+  line-height: 30px; 
   margin-bottom: 14px;
 }
 
@@ -59,8 +59,14 @@ li {
 }
 .navbar li {
   float: left;
-  padding-left: 1em;
-  padding-right: 2em;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 0px; 
+  margin-top: 16px;
+  margin-bottom: 10px;
+  margin-left: 20px;
 }
 .navbar a {
   text-decoration: none;

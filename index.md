@@ -6,13 +6,14 @@ title: mZero
 <div class='post'>
     <div class='body'>{{ site.posts.first.content }}</div>
 </div>
+<hr>
+### Artigos anteriores
 
-<div id="paginator">
-  {% if page.previous %}
-    <a id="left" href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Anterior</a>
-  {% endif %}
-  
-  {% if page.next %}
-    <a id="right" href="{{ page.next.url }}" title="{{ page.next.title }}"> Próximo &rarr;</a>
-  {% endif %}
+<div class="hfeed">
+	{% for post in site.posts %}
+	   <article class="hentry entry">
+	    	<p><time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+	    	<a href="{{ post.url }}">{{ post.title }}</a></p>
+	    </article>
+	{% endfor %}
 </div>
