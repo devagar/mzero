@@ -2,9 +2,6 @@
 layout: post
 title: Emagrecer e simplificar
 ---
-
-### Emagrecer e simplificar
-
 Um excesso de 3500 calorias dia para além do que o corpo consegue metabolizar corresponde a cerca de 500 g de gordura acumulada. 
 
 Ou seja: por cada 10 calorias que o nosso corpo não consome correspondem a cerca de 1,5 gramas de gordura acumuladas por dia. 

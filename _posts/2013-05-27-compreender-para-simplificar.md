@@ -2,9 +2,6 @@
 layout: post
 title: Compreender para simplificar
 ---
-
-### Compreender para simplificar 
-
 Em Maio de 2013 numa sexta-feira preparava-me para escrever um post no meu blog a [Arte do Cultivo da Quietude](http://devagar.org/chikung), quando teclei o endereço foi-me informado que o site tinha sido alvo de um ataque informático e estava suspenso por tempo indeterminado.
 
 A interrupção foi breve até que a paz fosse restabelecida, no entanto, este pequeno incidente fez-me pensar como é fácil criar dependência de um sistema que:

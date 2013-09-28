@@ -2,9 +2,6 @@
 layout: post
 title: Utilizador ou Criador?
 ---
-
-### Utilizador ou Criador?
-
 Numa viagem Porto -> Lisboa que durou cerca de três horas pela auto estrada fez-me viajar pelo tempo e por outras viagens que realizei no passado, sem autoestrada, com recurso a mapas e um tempo bastante superior de deslocação entre partida e chegada. 
 
 Dai foi fácil pensar nos automóveis e do tempo onde por exemplo não havia espelho retrovisor exterior, nem à direita nem à esquerda. Os vidro subiam e desciam com uma manivela e as mudanças eram manuais. Viajar exigia efetivamente a utilização dos cinco sentidos e pressionar o acelerador hoje substituído pelo "cruise control", onde a velocidade se mantém constante e em alguns caso até varia segundo a distância do veículo da frente. Estacionar era sem sensores, câmaras ou direção assistida. E hoje existem mesmo sensores que determinam o ritmo do limpa vidros segundo a quantidade de precipitação ou que acendem as luzes quando a luminosidade exterior diminui. 

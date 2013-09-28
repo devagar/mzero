@@ -2,9 +2,6 @@
 layout: post
 title: Aprender a focar 
 ---
-
-### Aprender a focar 
-
 A ideia que pode ser transmitida do foco é a do samurai que consegue apesar de todas as adversidades manter o seu caminho resultado de uma concentração sobre-humana.
 
 Eu tinha esta ideia de que quanto maior o foco maior seria as possibilidades de sucesso.

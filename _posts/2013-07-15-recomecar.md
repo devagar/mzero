@@ -2,9 +2,6 @@
 layout: post
 title: Recomeçar
 ---
-
-### Recomeçar
-
 Se estamos em férias pode ser a altura ideal para quebrar hábitos antigos iniciando outros.
 
 Mesmo não nos encontrando de férias, os dias são maiores e existe mais tempo e espaço que pode ser utilizado para reflectir como gostariamos de estar assim que os dias fiquem de novo mais curtos e a rotina se volte a instalar de uma forma mais presente.
