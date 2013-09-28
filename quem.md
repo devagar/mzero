@@ -5,7 +5,7 @@ title: mZero
 
 ###Sobre Mim
 
-Chamo-me Lourenço de Azevedo e acredito no desenvolvimento do potencial humano pela prática regular do [Chi Kung](http://chikung.devagar.org) e pela simplificação de processos e ideias.
+Chamo-me Lourenço de Azevedo e acredito no desenvolvimento do potencial humano pela prática regular do [Chi Kung](http://devagar.org) e pela simplificação de processos e ideias.
 
 mZero ou Movimento Zero é o desafio de criar mais com menos utilizando os recursos que temos à nossa disposição.
 
