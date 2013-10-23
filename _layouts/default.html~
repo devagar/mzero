@@ -40,63 +40,11 @@
     <div class="container">
       <div class="ten columns offset-by-three"> 
         
-        <h1>Movimentos Zero</h1>
+        <h1>Movimento Zero</h1>
         <h4>A Arte de Criar Possibilidades Extraordinárias</h4>
         <br>
-        <title>A Mentalidade Goji Berry</title>
-            <article>
-      <time datetime="2013-08-25 00:00:00 +0100">25 Aug, 2013</time>
-      <h2>A Mentalidade Goji Berry</h2>
-      <p>As bagas goji foram dos primeiros produtos a abrir as portas para que anualmente exista um fruto, sumo ou suplemento milagroso que durante um ano é catapultado para a fama.</p>
-
-<ul>
-<li>
-<p>Assim temos também a mentalidade Noni,</p>
-</li>
-
-<li>
-<p>A mentalidade Mangostão</p>
-</li>
-
-<li>
-<p>A mentalidade Sementes de Chia</p>
-</li>
-
-<li>
-<p>A mentalidade Aloé Vera</p>
-</li>
-
-<li>
-<p>A mentalidade Kefir</p>
-</li>
-</ul>
-
-<p>&#8230;</p>
-
-<p>Os primeiros ocidentais a tomar contacto com os Hunzas no Paquistão encontraram uma sociedade que ultrapassava os padrões de longevidade até ali conhecidos e julgados possíveis.</p>
-
-<p>Investigações sobre os seus hábitos de vida revelaram que não havia grades segredos. Eram bastante ativos fisicamente, tinham um alimentação simples, vivia num meio não poluído. Afinal não havia o segredo da longevidade.</p>
-
-<p>Mas&#8230;</p>
-
-<p>Havia algo que eles consumiam na sua alimentação que era único e que não existia na altura no ocidente.</p>
-
-<p>Óleo de sementes de pêssego.</p>
-
-<p>E assim surge a mentalidade do óleo de sementes de pêssego.</p>
-
-<p>Foram colhidas sementes de pêssego no Paquistão, foi produzido óleo e vendido a um preço milionário no Reino Unido como o segredo da longevidade.</p>
-
-<p>A questão que se levanta quando adotamos a &#8220;mentalidade goji&#8221; é se de facto é um hábito sustentável no dia a dia e que pode a longo prazo tornar-se algo transformador, ou apenas a adoção da mentalidade do momento em busca do milagre do óleo de pêssego.</p>
-
-<p>Vimeiro, 23 de Agosto de 2013.</p>
- </article>
-
-
-
-
-
-
+        <title>{{ page.title }}</title>
+            {{ content }}
         <hr>
 
         <span class='st_email_large' displayText='Email'></span>
@@ -105,13 +53,13 @@
 
 
         <div id="paginator">
+          {% if page.previous %}
+            <a id="left" href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Anterior</a>
+          {% endif %}
           
-            <a id="left" href="/2013/08/13/retiro.html" title="Quebrar Padrões">&larr; Anterior</a>
-          
-          
-          
-            <a id="right" href="/2013/09/28/movimentos.html" title="Criar Movimentos Zero"> Próximo &rarr;</a>
-          
+          {% if page.next %}
+            <a id="right" href="{{ page.next.url }}" title="{{ page.next.title }}"> Próximo &rarr;</a>
+          {% endif %}
         </div>
       </div>
     </div>   

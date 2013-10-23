@@ -1,6 +1,6 @@
 
 body {
-  padding-top: 4em;
+  padding-top: 10px;
   padding-bottom: 5em;
   /*background: url("/images/noise.png") #f5f5f5;*/
   color: #222;
@@ -8,16 +8,33 @@ body {
 }
 
 h1,
-h2,
 h3,
-h4,
 h5 {
   font-family: Helvetica, Arial sans-serif;
 }
 
+
+h2 {
+   font-family: Helvetica, Arial sans-serif;
+   font-size: 30px; 
+   line-height: 30px; 
+   margin-bottom: 14px;
+}
+
+
+h4 {
+   font-family: Helvetica, Arial sans-serif;
+   font-size: 24px; 
+   line-height: 30px; 
+   margin-bottom: 14px;
+   color: #585858;
+}
+
+
+
 p {
   font-family: Georgia, serif;
-  font-size: 18px; 
+  font-size: 16px; 
   line-height: 30px; 
   margin-bottom: 14px;
 }
@@ -37,11 +54,11 @@ li {
 }
 .navbar {
   background: #313131;
-  width: 100%;
+  width: 20%;
   position: fixed;
   z-index: 1000;
-  padding-top: 7px;
-  padding-bottom: 7px;
+  padding-top: 20px;
+  padding-bottom: 100%;
   box-shadow: 1px 3px 3px #ddd;
 }
 .navbar-top {

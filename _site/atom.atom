@@ -4,13 +4,44 @@
   <title>mZero</title>
   <link href="http://mzero.co/"/>
   <link type="application/atom+xml" rel="self" href="http://mzero.co/atom.atom"/>
-  <updated>2013-09-28T17:55:26+01:00</updated>
+  <updated>2013-10-23T13:56:03+01:00</updated>
   <id>http://mzero.co/</id>
   <author>
     <name>Lourenco de Azevedo</name>
     <email>lourencoazevedo@devagar.org</email>
   </author>
 
+  
+  <entry>
+    <id>http://mzero.co/2013/10/24/escolha</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/10/24/escolha.html"/>
+    <title>Em vez de...</title>
+    <published>2013-10-24T00:00:00+01:00</published>
+    <updated>2013-10-24T00:00:00+01:00</updated>
+    <author>
+      <name>"Lourenco de Azevedo"</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;p&gt;Hoje podemos encontrar soluções para tudo.&lt;/p&gt;
+
+&lt;p&gt;Essas soluções prometem retirar-nos do nosso estado actual para um estado mais desejado e onde são prometidas mais possibilidades.&lt;/p&gt;
+
+&lt;p&gt;No entanto a pergunta central que pode ser colocada na raiz da nossa vontade de adoptar uma nova forma de vida, religião, relacionamento, computador ou telefone móvel é se a procura de mais não se resolve pela procura de menos.&lt;/p&gt;
+
+&lt;p&gt;Se a procura de algo que nos faz felizes não passará antes por deixar algo que nos faz infelizes.&lt;/p&gt;
+
+&lt;p&gt;Se investir a nossa energia numa dieta para perder peso não passará antes por entender o que na nossa alimentação diária nos está a fazer ganhar peso.&lt;/p&gt;
+
+&lt;p&gt;Se a busca infindável dos alimentos menos oxidantes, mais energéticos e mais na moda não passará antes por eliminar os alimentos que nos enfraquecem e debilitam a nossa Energia Vital.&lt;/p&gt;
+
+&lt;p&gt;Se adoptar uma nova tecnologia porque faz mais coisas e é mais moderna não passará antes por compreender em detalhe a que já possuímos.&lt;/p&gt;
+
+&lt;p&gt;Se adoptar uma nova religião porque é mais atractiva ou exótica não passará por compreender e praticar com conhecimento profundo a que já professamos.&lt;/p&gt;
+
+&lt;p&gt;Se procurar investir as nossas expectativas na viagem da nossa vida não poderá passar antes por olhar para a nossa vida actual e fazer dela uma viagem.&lt;/p&gt;
+
+&lt;p&gt;Fica o desafio.&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <id>http://mzero.co/2013/09/28/movimentos</id>
@@ -388,7 +419,7 @@
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
-    <content type="html">&lt;p&gt;Hoje anulei a minha subscrição no G+, limpei a minha wall no Facebook e tomei a decisão de continuar a promoção do &lt;a href=&#39;https://www.google.com&#39;&gt;Retiro Urbano&lt;/a&gt; essencialmente por email. Retirei também o mZero de qualquer rede social.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Hoje anulei a minha subscrição no G+, limpei a minha wall no Facebook e tomei a decisão de continuar a promoção do &lt;a href='https://www.google.com'&gt;Retiro Urbano&lt;/a&gt; essencialmente por email. Retirei também o mZero de qualquer rede social.&lt;/p&gt;
 
 &lt;p&gt;A divulgação é feita agora única exclusivamente por email.&lt;/p&gt;
 
@@ -551,7 +582,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Querem partilhar a vossa conspiração evolucionária? &lt;a href=&#39;mailto:lourencoazevedo@gmail.com&#39;&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Querem partilhar a vossa conspiração evolucionária? &lt;a href='mailto:lourencoazevedo@gmail.com'&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Num voo entre Amesterdão e Portugal, 4 de Junho 2013&lt;/p&gt;</content>
   </entry>
@@ -678,7 +709,7 @@
 
 &lt;p&gt;Como lidam com eles?&lt;/p&gt;
 
-&lt;p&gt;Partilhem comigo as vossas descobertas - &lt;a href=&#39;mailto:lourencoazevedo@gmail.com&#39;&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Partilhem comigo as vossas descobertas - &lt;a href='mailto:lourencoazevedo@gmail.com'&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Amsterdão, 1 de Junho de 2013&lt;/p&gt;</content>
   </entry>
@@ -693,7 +724,7 @@
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
-    <content type="html">&lt;p&gt;Em Maio de 2013 numa sexta-feira preparava-me para escrever um post no meu blog a &lt;a href=&#39;http://devagar.org/chikung&#39;&gt;Arte do Cultivo da Quietude&lt;/a&gt;, quando teclei o endereço foi-me informado que o site tinha sido alvo de um ataque informático e estava suspenso por tempo indeterminado.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Em Maio de 2013 numa sexta-feira preparava-me para escrever um post no meu blog a &lt;a href='http://devagar.org/chikung'&gt;Arte do Cultivo da Quietude&lt;/a&gt;, quando teclei o endereço foi-me informado que o site tinha sido alvo de um ataque informático e estava suspenso por tempo indeterminado.&lt;/p&gt;
 
 &lt;p&gt;A interrupção foi breve até que a paz fosse restabelecida, no entanto, este pequeno incidente fez-me pensar como é fácil criar dependência de um sistema que:&lt;/p&gt;
 
