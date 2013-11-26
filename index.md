@@ -5,7 +5,7 @@ title: mZero
 
 <div class='post'>
     <div class='body'>
-    {% for post in site.posts limit:1 %}
+   {% for post in site.posts limit:1 %}
     	   {{post.date | date: "%d %b, %Y" }}	
       	<h2>{{post.title}}</h2>
       	{{ post.content }}
@@ -17,10 +17,13 @@ title: mZero
 ### Artigos Publicados
 
 <div class="hfeed">
-	{% for post in site.posts %}
-	   <article class="hentry entry">
-	    	<p><time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-	    	<a href="{{ post.url }}">{{ post.title }}</a></p>
-	    </article>
-	{% endfor %}
+  {% for post in site.posts %}
+     <article class="hentry entry">
+        <p><time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+        <a href="{{ post.url }}">{{ post.title }}</a></p>
+      </article>
+  {% endfor %}
 </div>
+
+
+
