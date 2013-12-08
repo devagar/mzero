@@ -10,7 +10,7 @@ title: Desafios Zero
 
 ### Dia 2
 
-Limpei e arrumei uma prateleira/armário de papeis e todo o material que passou de data. Papeis, caixas de material electrónico. Reposicionei livros e organizei pastas. *Tempo despendido 30 minutos*
+Limpei arrumei e organizei 7 prateleiras. Papeis, electrónica, livros, material didáctico e o que se vai colocando lá por distracção ou preguiça. *Tempo despendido 30 minutos*
 
 ### Dia 1
 
