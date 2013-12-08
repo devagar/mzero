@@ -36,4 +36,4 @@ Estes três conceitos podem ser divididos em outros que são integrantes e inspi
 
 Estas várias abordagens permitem tornar os Movimentos Zero não num fim mas num caminho.
 
-Poderá sempre se tiver mais perguntas sobre a Arte de Criar Possibilidades extraodinárias utilizar a opção **Contactar-me** no menu. 
+Poderá sempre se tiver mais perguntas sobre a Arte de Criar Possibilidades extraodinárias utilizar a opção **Contacto** no menu. 
