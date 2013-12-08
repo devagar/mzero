@@ -1,52 +1,133 @@
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts/OpenSans-Light.ttf");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts/OpenSans-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts/OpenSans-Bold.ttf");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts/OpenSans-LightItalic.ttf");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts/OpenSans-Italic.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts/OpenSans-BoldItalic.ttf");
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Ubuntu Mono";
+  src: url("../fonts/UbuntuMono-R.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Ubuntu Mono";
+  src: url("../fonts/UbuntuMono-RI.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Ubuntu Mono";
+  src: url("../fonts/UbuntuMono-B.ttf");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Ubuntu Mono";
+  src: url("../fonts/UbuntuMono-BI.ttf");
+  font-weight: 600;
+  font-style: italic;
+}
 
 body {
-  padding-top: 20px;
-  padding-bottom: 5em;
-  /*background: url("/images/noise.png") #f5f5f5;*/
-  background: #f5f5f5;
-  /*color: #222;*/
+  border: 1px solid #f5f5f5;
+  background: #f5f5f5 url(../index_files/noise.png);
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 1em;
+  font-size: 1.2em;
+}
   
+h1 {
+  margin-top: 14px;
+  font-size: 50px; 
+  line-height: 30px; 
+  margin-bottom: 14px;
+  font-family: "Open Sans", sans-serif;
+  color: #222;
+  font-weight: 400;
 }
 
-h1,
-h3,
-h5 {
-  font-family: Helvetica, Arial sans-serif;
+h3 {
+  margin-top: 14px;
+  font-size: 28px; 
+  line-height: 34px; 
+  margin-bottom: 14px;
+  font-family: "Open Sans", sans-serif;
+  color: #222;
+  font-weight: 400;
 }
-
 
 h2 {
-   font-family: Helvetica, Arial sans-serif;
+   font-family: 'Open Sans', sans-serif;
    font-size: 30px; 
+   font-weight: 400;
    line-height: 30px; 
    margin-bottom: 14px;
 }
 
 
 h4 {
-   font-family: Helvetica, Arial sans-serif;
+   font-family: 'Open Sans', sans-serif;
    font-size: 24px; 
+   font-weight: 400;
    line-height: 20px; 
    margin-bottom: 14px;
    color: #585858;
 }
 
+h5 {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 16px; 
+   font-weight: 400;
+   line-height: 20px; 
+   margin-bottom: 0px;
+   color: #000;
+}
 
 
 p {
-  font-family: Georgia, serif;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
   font-size: 18px; 
   line-height: 30px; 
   margin-bottom: 14px;
   color: #000000;
 }
 
+
 li {
-  font-family: Georgia, serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
+  font-weight: 300;
   line-height: 25px; 
   margin-bottom: 14px;
   margin-left: 25px;
+  list-style-type: disc;
   color: #000000;
 }
 
@@ -82,8 +163,9 @@ li {
   float: left;
   padding-left: 10px;
   padding-right: 10px;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
+  font-weight: 400;
   line-height: 0px; 
   margin-top: 16px;
   margin-bottom: 10px;

@@ -4,13 +4,56 @@
   <title>mZero</title>
   <link href="http://mzero.co/"/>
   <link type="application/atom+xml" rel="self" href="http://mzero.co/atom.atom"/>
-  <updated>2013-11-26T17:33:14+00:00</updated>
+  <updated>2013-12-08T10:57:10+00:00</updated>
   <id>http://mzero.co/</id>
   <author>
     <name>Lourenco de Azevedo</name>
     <email>lourencoazevedo@devagar.org</email>
   </author>
 
+  
+  <entry>
+    <id>http://mzero.co/2013/11/29/box</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2013/11/29/box.html"/>
+    <title>Out of the box</title>
+    <published>2013-11-29T00:00:00+00:00</published>
+    <updated>2013-11-29T00:00:00+00:00</updated>
+    <author>
+      <name>"Lourenco de Azevedo"</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Out of the box&lt;/em&gt; é o termo que define algo que é retirado da caixa e está pronto a funcionar. Aplica-se em tecnologias que não requerem qualquer configuração para se tornarem operativas.&lt;/p&gt;
+
+&lt;p&gt;É o computador ou smartphone que se liga e tem tudo o que precisamos.&lt;/p&gt;
+
+&lt;p&gt;Por paralelismo estão também incluídas as viagens que se compram nas agências em que tudo está planeado.&lt;/p&gt;
+
+&lt;p&gt;São os menus que alguns restaurantes oferecem com tudo incluído em que só temos de escolher um número.&lt;/p&gt;
+
+&lt;p&gt;As refeições pré preparadas em que basta juntar água, o forno micro ondas ou ambas.&lt;/p&gt;
+
+&lt;p&gt;São os packs de fim de semana de experiências inesquecíveis.&lt;/p&gt;
+
+&lt;p&gt;As máquinas que cozinham todo o tipo de refeições e que basta apenas seguir as instruções e pressionar um botão.&lt;/p&gt;
+
+&lt;p&gt;A dieta 1-2-3 que promete a perca de exatamente cinco quilos numa semana.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;Esta mentalidade pode ser importante quando estamos a começar a desbravar um terreno desconhecido:&lt;/p&gt;
+
+&lt;p&gt;Se as tecnologias não são a nossa área, comprar um computador que basta ligar à corrente e apresente já todo o software instalado e pronto a funcionar pode a longo prazo despertar a curiosidade para querermos saber mais.&lt;/p&gt;
+
+&lt;p&gt;Ou uma viagem em ambiente controlado a um pais distante pode transformar-se numa vontade de voltar aos mesmo locais por nossa conta e risco.&lt;/p&gt;
+
+&lt;p&gt;A questão é quando na vida é o Out of the box que se torna a opção principal.&lt;/p&gt;
+
+&lt;p&gt;Assim se escolhe um emprego mais seguro Relacionamentos mais previsíveis Tecnologias sob a qual não temos qualquer controle Ocupar o nosso tempo e recursos com o conhecido e rotineiro&lt;/p&gt;
+
+&lt;p&gt;Se a coca-cola, a penicilina, os post-it, os corn flakes, o pacemaker e até mesmo o plástico foram descobertos por acidente.&lt;/p&gt;
+
+&lt;p&gt;Pense nisso da próxima vez que estiver prestes a adquirir algo funcional, planeado e previsível e se essa aquisição ou escolha lhe dá ou lhe limita as possibilidades das quais a vida humana pode ser animada e tornada única.&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <id>http://mzero.co/2013/11/15/acabar</id>
@@ -462,7 +505,7 @@
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
-    <content type="html">&lt;p&gt;Hoje anulei a minha subscrição no G+, limpei a minha wall no Facebook e tomei a decisão de continuar a promoção do &lt;a href='https://www.google.com'&gt;Retiro Urbano&lt;/a&gt; essencialmente por email. Retirei também o mZero de qualquer rede social.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Hoje anulei a minha subscrição no G+, limpei a minha wall no Facebook e tomei a decisão de continuar a promoção do &lt;a href=&#39;https://www.google.com&#39;&gt;Retiro Urbano&lt;/a&gt; essencialmente por email. Retirei também o mZero de qualquer rede social.&lt;/p&gt;
 
 &lt;p&gt;A divulgação é feita agora única exclusivamente por email.&lt;/p&gt;
 
@@ -625,7 +668,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Querem partilhar a vossa conspiração evolucionária? &lt;a href='mailto:lourencoazevedo@gmail.com'&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Querem partilhar a vossa conspiração evolucionária? &lt;a href=&#39;mailto:lourencoazevedo@gmail.com&#39;&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Num voo entre Amesterdão e Portugal, 4 de Junho 2013&lt;/p&gt;</content>
   </entry>
@@ -752,7 +795,7 @@
 
 &lt;p&gt;Como lidam com eles?&lt;/p&gt;
 
-&lt;p&gt;Partilhem comigo as vossas descobertas - &lt;a href='mailto:lourencoazevedo@gmail.com'&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Partilhem comigo as vossas descobertas - &lt;a href=&#39;mailto:lourencoazevedo@gmail.com&#39;&gt;&amp;#108;&amp;#111;&amp;#117;&amp;#114;&amp;#101;&amp;#110;&amp;#099;&amp;#111;&amp;#097;&amp;#122;&amp;#101;&amp;#118;&amp;#101;&amp;#100;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Amsterdão, 1 de Junho de 2013&lt;/p&gt;</content>
   </entry>
@@ -767,7 +810,7 @@
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
     </author>
-    <content type="html">&lt;p&gt;Em Maio de 2013 numa sexta-feira preparava-me para escrever um post no meu blog a &lt;a href='http://devagar.org/chikung'&gt;Arte do Cultivo da Quietude&lt;/a&gt;, quando teclei o endereço foi-me informado que o site tinha sido alvo de um ataque informático e estava suspenso por tempo indeterminado.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Em Maio de 2013 numa sexta-feira preparava-me para escrever um post no meu blog a &lt;a href=&#39;http://devagar.org/chikung&#39;&gt;Arte do Cultivo da Quietude&lt;/a&gt;, quando teclei o endereço foi-me informado que o site tinha sido alvo de um ataque informático e estava suspenso por tempo indeterminado.&lt;/p&gt;
 
 &lt;p&gt;A interrupção foi breve até que a paz fosse restabelecida, no entanto, este pequeno incidente fez-me pensar como é fácil criar dependência de um sistema que:&lt;/p&gt;
 

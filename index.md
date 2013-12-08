@@ -6,7 +6,7 @@ title: mZero
 <div class='post'>
     <div class='body'>
    {% for post in site.posts limit:1 %}
-    	   {{post.date | date: "%d %b, %Y" }}	
+    	   <h5>{{post.date | date: "%d %b, %Y" }}</h5>	
       	<h2>{{post.title}}</h2>
       	{{ post.content }}
     {% endfor %}
