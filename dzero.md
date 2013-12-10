@@ -8,6 +8,10 @@ title: Desafios Zero
 
 **Objectivo:** Criar espaço durante os próximos 30 dias para o novo ano de 2014 pela organização, simplificação e subtracção.
 
+### Dia 4
+
+Limpeza de todos os contactos do telefone móvel que estavam desactualizados. Tinha 25 contactos foram eliminados seis. *Tempo despendido 2 minutos.*
+
 ### Dia 3
 
 Limpeza da secretária. Não sei o que é mais difícil de arrumar se os objectos que vão ficando esquecidos,
