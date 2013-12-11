@@ -8,6 +8,10 @@ title: Desafios Zero
 
 **Objectivo:** Criar espaço durante os próximos 30 dias para o novo ano de 2014 pela organização, simplificação e subtracção.
 
+### Dia 5
+
+Ponto da situação em relação aos livros. Tomei a decisão quando fiz a mudança para lisboa que não traria mais de 100 livros comigo. Até agora são 97. No entanto encontrei um que posso oferecer a quem o quiser ler e não se importar de consumir livros sublinhados. Chama-se [The Big Leap](http://www.amazon.co.uk/The-Big-Leap-Conquer-Hidden/dp/0061735361/ref=sr_1_1?ie=UTF8&qid=1386787035&sr=8-1&keywords=the+big+leap). Basta enviarem-me um email para combinar-mos a forma de entrega. 
+
 ### Dia 4
 
 Limpeza de todos os contactos do telefone móvel que estavam desactualizados. Tinha 25 contactos foram eliminados seis. *Tempo despendido 2 minutos.*
