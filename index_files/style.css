@@ -53,124 +53,86 @@
   font-weight: 600;
   font-style: italic;
 }
-
 body {
-  border: 1px solid #f5f5f5;
-  background: #f5f5f5 url(../index_files/noise.png);
+  background: #f5f5f5 url("../images/noise.png");
   font-family: "Open Sans", sans-serif;
+  color: #222;
+  padding-top: 4em;
+  padding-bottom: 5em;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Open Sans", sans-serif;
+  color: #222;
+  font-weight: 300;
+}
+h3 {
+  font-size: 2.5em;
+  margin-bottom: 0.7em;
+  margin-top: 0.2em;
+}
+strong {
+  font-weight: 500;
+}
+p,
+li,
+.button {
+  font-weight: 300;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  font-family: "Open Sans", sans-serif;
+}
+ul {
+  list-style-type: square;
+  margin-left: 2em;
+}
+pre {
+  border: 1px solid #f5f5f5;
+  background: #fff url("../images/noise.png");
+  font-family: "Ubuntu Mono", monospace;
   margin-bottom: 1em;
-  margin-top: 50px;
   font-size: 1.2em;
 }
-  
-h1 {
-  margin-top: 14px;
-  font-size: 50px; 
-  line-height: 30px; 
-  margin-bottom: 14px;
-  font-family: "Open Sans", sans-serif;
-  color: #222;
-  font-weight: 400;
+code {
+  border-radius: 5px;
 }
-
-h3 {
-  margin-top: 14px;
-  font-size: 28px; 
-  line-height: 34px; 
-  margin-bottom: 14px;
-  font-family: "Open Sans", sans-serif;
-  color: #222;
-  font-weight: 400;
-}
-
-h2 {
-   font-family: 'Open Sans', sans-serif;
-   font-size: 30px; 
-   font-weight: 400;
-   line-height: 30px; 
-   margin-bottom: 14px;
-}
-
-
-h4 {
-   font-family: 'Open Sans', sans-serif;
-   font-size: 24px; 
-   font-weight: 400;
-   line-height: 20px; 
-   margin-bottom: 14px;
-   color: #585858;
-}
-
-h5 {
-   font-family: 'Open Sans', sans-serif;
-   font-size: 16px; 
-   font-weight: 400;
-   line-height: 20px; 
-   margin-bottom: 0px;
-   color: #000;
-}
-
-
-p {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
-  font-size: 18px; 
-  line-height: 30px; 
-  margin-bottom: 14px;
-  color: #000000;
-}
-
-
-li {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
-  font-weight: 300;
-  line-height: 25px; 
-  margin-bottom: 14px;
-  margin-left: 25px;
-  list-style-type: disc;
-  color: #000000;
-}
-
 .profile {
   padding: 4px;
   border: 1px solid #ccc;
   box-shadow: 1px 3px 3px #ddd;
 }
 .navbar {
-  /*background: #313131;*/
-  background: #000000;
+  background: #313131;
   width: 100%;
   position: fixed;
   z-index: 1000;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  box-shadow: 1px 3px 3px #ddd;
+  padding-top: 7px;
+  padding-bottom: 7px;
 }
 .navbar-top {
   top: 0;
   border-bottom: 1px solid #272727;
 }
-.navbar-bottom {
-  bottom: 0;
-  border-top: 1px solid #272727;
+.navbar-ven {
+  top: 0;
+  border-bottom: 3px solid #028e9b;
 }
 .navbar p,
- {
+.navbar li,
+.navbar ul {
   margin: 0;
   padding: 0;
+  font-size: 1em;
 }
 .navbar li {
   float: left;
-  padding-left: 10px;
-  padding-right: 10px;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
-  font-weight: 400;
-  line-height: 0px; 
-  margin-top: 16px;
-  margin-bottom: 10px;
-  margin-left: 20px;
+  padding-left: 1em;
+  padding-right: 2em;
+  margin-left: 0;
+  list-style-type: none;
 }
 .navbar a {
   text-decoration: none;

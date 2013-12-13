@@ -3,7 +3,7 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" href="/index_files/zero.jpg">
-    <title>mZero</title>
+    <title>mZero - A Arte de Criar Possibilidades Extraordinárias</title>
     <meta name="keywords" content= "minimalismo, simplificar, minimalista, recursos" />
     <meta name="description" content="mZero é sobre o desafio de criar mais com menos utilizando os recursos que temos à nossa disposição." />
     <link rel="alternate" type="application/atom+xml" title="mZero" href="http://mzero.co/atom.atom" />
@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="/index_files/skeleton.css">
     <link rel="stylesheet" href="/index_files/layout.css">
     <link rel="stylesheet" href="/index_files/style.css">
+    <script type="text/javascript" src="/index_files/highlight.js"></script>
+    <link rel="stylesheet" href="/index_files/monokai_sublime.css">
   </head>
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
@@ -25,46 +27,60 @@
   ga('send', 'pageview');
 
 </script>
-  <body>
+
+<body>
+  <script type="text/javascript">hljs.initHighlightingOnLoad();</script>
     <div class="container navbar navbar-top">
-      <div class="sixteen columns offset-by-three">
-        <ul>
-          <li> <a href="/">Início</a></li>
-          <li> <a href="/quem.html">Sobre mim</a></li>
-          <li> <a href="/dzero.html">dZero30</a></li>
-          <li> <a href="http://eepurl.com/z5Scn">Subscrever</li>
-          <li> <a href="mailto:lourencoazevedo@gmail.com?Subject=Pedido de informção">Contacto</a></li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="fifteen columns offset-by-one"> 
-        
-        <h1>Movimentos Zero</h1>
-        <h4>A Arte de Criar Possibilidades Extraordinárias</h4>
-        <br>
-        <title>{{ page.title }}</title>
-            {{ content }}
-        <hr>
-
-        <span class='st_email_large' displayText='Email'></span>
-        <span class='st_facebook_large' displayText='Tweet'></span>
-        <span class='st_twitter_large' displayText='Tweet'></span>
-
-
-        <div id="paginator">
-          {% if page.previous %}
-            <a id="left" href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Anterior</a>
-          {% endif %}
-          
-          {% if page.next %}
-            <a id="right" href="{{ page.next.url }}" title="{{ page.next.title }}"> Próximo &rarr;</a>
-          {% endif %}
+      <div class="container">
+        <div class="ten columns">
+          <ul>
+            <li> <a href="/">Início</a></li>
+            <li> <a href="/quem.html">Quem?</a></li>
+            <li> <a href="/dzero.html">dZero30</a></li>
+            <li> <a href="http://eepurl.com/z5Scn">Subscrever</li>
+            <li> <a href="mailto:lourencoazevedo@gmail.com?Subject=Pedido de informção">Contactar-me</a></li>
+          </ul>
         </div>
       </div>
-    </div>   
-</strong>
+    </div>
+    
 
+  <div class="container">
+    <div class="ten columns">       
+        <h1>Movimentos Zero</h1>
+        <blockquote>A Arte de Criar Possibilidades Extraordinárias</blockquote>
+        <title> {{ page.title }}</title>
+                {{ content }}
+
+          <span class='st_email_large' displayText='Email'></span>
+          <span class='st_facebook_large' displayText='Fbook'></span>
+          <span class='st_twitter_large' displayText='Tweet'></span>
+
+          <div id="paginator">
+            {% if page.previous %}
+              <a id="left" href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Anterior</a>
+            {% endif %}
+            
+            {% if page.next %}
+              <a id="right" href="{{ page.next.url }}" title="{{ page.next.title }}"> Próximo &rarr;</a>
+            {% endif %}
+          </div>
+
+    </div>
+  
+   <div class="container">
+       <div class="five columns offset-by-one sidebar ">
+           <div class="hfeed">
+           <h2>Artigos Publicados</h2>
+           <br>
+              {% for post in site.posts %}
+                 <article class="hentry entry">
+                    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+                  </article>
+              {% endfor %}
+           </div>
+      </div>
+    </div>                    
+  </div>  
 </body>
 </html>

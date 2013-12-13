@@ -2,11 +2,23 @@
 layout: default
 title: Desafios Zero
 ---
-
 ## Desafios Zero
+
 *Iniciado a 6 de Dezembro de 2013* 
 
 **Objectivo:** Criar espaço durante os próximos 30 dias para o novo ano de 2014 pela organização, simplificação e subtracção.
+
+#### Dia 8
+
+Reformulação deste site para se tornar ainda mais leve. Constam nele os últimos 10 artigos escritos. Os outros vão sendo eliminados à medida que novos artigos surgem. Na minha experiência é fácil acumular escrita e artigos que passam de tempo e que não são mais que artefactos e já não reflectem o meu trabalho actual. Eliminando-os cria abertura a novas possibilidades e dá ao leitor que visita o mZero. PAssou também pela adopção de uma nova linguagem de publicação e a migração para um servidor novo. *Tempo despendido 6 horas.* 
+ 
+#### Dia 7 
+
+Unificação de todos o meus cartões de viagem num só. Quem viaja no metro de Lisboa adquire vários títulos que podem em certos casos acumular. O valor acumulado da recolha dos cartões foi de 1.40 Euros que foram adicionados ao meu passe de viagem. Menos um cartão na carteira. *Tempo despendido 5 minutos.*
+
+#### Dia 6
+
+Limpeza e organização da "gaveta dos sacos de plástico". Existiam vários tipos, plástico, plástico com asas e papel. Os de plástico sem asas foram colocados para serem utilizados nos passeios com o cão. Os com asas para sacos de lixo e os de papel foram arrumados para compras ou guardar alimentos quando se está na rua. *Tempo despendido 20 minutos.*
 
 ### Dia 5
 
