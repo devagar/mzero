@@ -8,6 +8,10 @@ title: Desafios Zero
 
 **Objectivo:** Criar espaço durante os próximos 30 dias para o novo ano de 2014 pela organização, simplificação e subtracção.
 
+#### Dia 9 
+
+Casa de banho uma garrafa de gel de banho vazia a menos, o resto ok - Ainda resultado se uma limpeza recente. *Tempo despendido 3 minutos.* 
+
 #### Dia 8
 
 Reformulação deste site para se tornar ainda mais leve. Constam nele os últimos 10 artigos escritos. Os outros vão sendo eliminados à medida que novos artigos surgem. Na minha experiência é fácil acumular escrita e artigos que passam de tempo e que não são mais que artefactos e já não reflectem o meu trabalho actual. Eliminando-os cria abertura a novas possibilidades e dá ao leitor que visita o mZero. PAssou também pela adopção de uma nova linguagem de publicação e a migração para um servidor novo. *Tempo despendido 6 horas.* 
