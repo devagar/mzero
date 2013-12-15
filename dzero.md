@@ -8,9 +8,13 @@ title: Desafios Zero
 
 **Objectivo:** Criar espaço durante os próximos 30 dias para o novo ano de 2014 pela organização, simplificação e subtracção.
 
+#### Dia 10
+
+Emails, Menos 600 na caixa de correio. Mudei para a opção de smtp no Thunderbird e tenho os mesmos emails que tenho no meu correio do gmail na cloud desde que o subscrevi em 2005. Ao todo mais de 29.000?!?!. Provavelmente um bom desafio de 30 dias. *Tempo despendido 15 minutos.*
+
 #### Dia 9 
 
-Casa de banho uma garrafa de gel de banho vazia a menos, o resto ok - Ainda resultado se uma limpeza recente. *Tempo despendido 3 minutos.* 
+Casa de banho, uma garrafa de gel de banho vazia a menos, o resto ok - Ainda resultado de uma limpeza recente. *Tempo despendido 3 minutos.* 
 
 #### Dia 8
 
