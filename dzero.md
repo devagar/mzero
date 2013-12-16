@@ -14,7 +14,7 @@ Limpeza da pasta de Downloads e Reciclagem. O Computador ganhou 1.3 GB. Quando s
 
 #### Dia 10
 
-Emails, Menos 600 na caixa de correio. Mudei para a opção de smtp no Thunderbird e tenho os mesmos emails que tenho no meu correio do gmail na cloud desde que o subscrevi em 2005. Ao todo mais de 29.000?!?!. Provavelmente um bom desafio de 30 dias. *Tempo despendido 15 minutos.*
+Emails, Menos 600 na caixa de correio. Mudei para a opção de smtp no Thunderbird e tenho os mesmos emails que tenho no meu correio na cloud desde que o subscrevi em 2005. Ao todo mais de 29.000?!?!. Provavelmente um bom desafio de 30 dias. *Tempo despendido 15 minutos.*
 
 #### Dia 9 
 
