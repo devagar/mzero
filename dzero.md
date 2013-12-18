@@ -8,9 +8,17 @@ title: Desafios Zero
 
 **Objectivo:** Criar espaço durante os próximos 30 dias para o novo ano de 2014 pela organização, simplificação e subtracção.
 
+#### Dia 13 
+
+Limpeza da fruteira de fruta que possa estar estragada. Um limão e uma pêra. A pêra ainda deu para ser aproveitada para o creme de arroz. *Tempo despendido 5 minutos.*
+
+#### Dia 12 
+
+Não houve limpezas 
+
 #### Dia 11
 
-Limpeza da pasta de Downloads e Reciclagem. O Computador ganhou 1.3 GB. Quando se escolhe trabalhar apenas com um disco de 100 Gb todo o espaço conta. *Tempo despendido 5 minutos*
+Limpeza da pasta de Downloads e Reciclagem. O Computador ganhou 1.3 GB. Quando se escolhe trabalhar apenas com um disco de 100 Gb todo o espaço conta. *Tempo despendido 5 minutos.*
 
 #### Dia 10
 
