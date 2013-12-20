@@ -18,9 +18,9 @@ A questão com os substitutos é que ficamos sempre à espera que eles tenham um
 
 Assim acabamos por comer Queijo Tofu crú entre duas fatias de pão, temperar o seitan como se tempera os bifes com vinho branco e alho ou beber três copos de leite de soja por dia tal como é recomendado com o leite de vaca.
 
-Estes alimentos trazem um potencial e possibilidades diferentes. E se não os tratamos como tal acabamos por nunca sentir o que eles realmente nos têm para nos oferecer ou é fácil nos desiludirmos porque os bifes de seitan afinal não sabem a bifes de vaca. 
+Estes alimentos trazem um potencial e possibilidades diferentes. Se não os tratamos como tal acabamos por nunca sentir o que eles realmente nos têm para nos oferecer ou é fácil nos desiludirmos porque os bifes de seitan afinal não sabem a bifes de vaca. 
 
-É ter um tractor que não ultrapassa os 50km/h comprar um carro desportivo e chamar-lhe tractor desportivo mantendo a velocidade religiosamente abaixo dos 50Km/h.
+É ter como um tractor que não ultrapassa os 50km/h, comprar um carro desportivo e chamar-lhe tractor desportivo mantendo a velocidade religiosamente abaixo dos 50Km/h.
 
 Tomem como desafio aprender como cada um destes produtos é confeccionado e vão descobrir que a bebida de Aveia não inclui nenhum bovino ou caprino no processo ou que a geleia de arroz não é produzida por abelhas. 
 
