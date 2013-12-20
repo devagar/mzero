@@ -2,16 +2,16 @@
 layout: post
 title: Bifes de seitan
 ---
-Queijo Tofu 
-Leite de Aveia
-Leite de soja, arroz e amêndoa
-Mel de Arroz, trigo ou cevada 
-Farinheira de soja 
-Croquetes de vegetarianos
-Manteiga de sésamo 
-Manteiga de amêndoa, amendoim e outras sementes
-Manteiga vegetal
-Natas de soja, aveia e arroz
++ Queijo Tofu 
++ Leite de Aveia
++ Leite de soja, arroz e amêndoa
++ Mel de Arroz, trigo ou cevada 
++ Farinheira de soja 
++ Croquetes de vegetarianos
++ Manteiga de sésamo 
++ Manteiga de amêndoa, amendoim e outras sementes
++ Manteiga vegetal
++ Natas de soja, aveia e arroz
 
 
 A questão com os substitutos é que ficamos sempre à espera que eles tenham um sabor e textura do que imitam. 
@@ -26,12 +26,12 @@ Tomem como desafio aprender como cada um destes produtos é confeccionado e vão
 
 Já agora uma possível alternativa para a lista acima
 
-Seitan em vez de Bifes de Seitan
-Tofu em vez de Queijo Tofu
-Bebida de Aveia, Soja, Arroz em vez de leite
-Geleias de arroz, trigo ou cevada em vez de Mel
-Pasta de Sésamo, amêndoa ou amendoim em vez de manteiga
-Pasta ou gordura vegetal para barrar no pão ou cozinhar em vez de manteigas vegetais
-Creme de cozinha de soja, aveia ou a arroz em vez de natas de...
++ Seitan em vez de Bifes de Seitan
++ Tofu em vez de Queijo Tofu
++ Bebida de Aveia, Soja, Arroz em vez de leite
++ Geleias de arroz, trigo ou cevada em vez de Mel
++ Pasta de Sésamo, amêndoa ou amendoim em vez de manteiga
++ Pasta ou gordura vegetal para barrar no pão ou cozinhar em vez de manteigas vegetais
++ Creme de cozinha de soja, aveia ou a arroz em vez de natas de...
 
 Lisboa, 20 de Dezembro de 2013
