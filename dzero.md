@@ -8,6 +8,10 @@ title: Desafios Zero
 
 **Objectivo:** Criar espaço durante os próximos 30 dias para o novo ano de 2014 pela organização, simplificação e subtracção.
 
+#### Dia 14
+
+Fecho de mais um ciclo de aulas. Limpeza do material didáctico que utilizei. Na sua maior parte folhas com apontamentos e esquemas que utilizo nas minhas aulas. *Tempo despendido 5 minutos.*
+
 #### Dia 13 
 
 Limpeza da fruteira de fruta que possa estar estragada. Um limão e uma pêra. A pêra ainda deu para ser aproveitada para o creme de arroz. *Tempo despendido 5 minutos.*
