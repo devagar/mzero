@@ -17,16 +17,27 @@ Levantamento dos programas que utilizo e eliminação daqueles que não preciso.
 Ficou esta lista ainda a melhorar.
 
 **Processamento de texto:** Pages / Byword
+
 **Folha de Cálculo:** Numbers 
+
 **Apresentação** Keynote
+
 **Som e gravação de podcasts:** Audacity
+
 **Edição do blog e editor de texto:** Sublime Text 2
+
 **Edição de imagem:** GIMP
+
 **Conversão de vídeo:** Handbrake
+
 **Edição de vídeo:** Imovie
+
 **Mind Maps:** MIndnode pro
+
 **Cloud:** Github e Copy
+
 **Ferramenta de publicação:** Git
+
 **Visualização de vídeos:** VLC
 
 *Tempo despendido 20 minutos. A selecionar e a limpar software menos importante 2,5 recuperados*
