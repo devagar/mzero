@@ -40,7 +40,7 @@ Ficou esta lista ainda a melhorar.
 
 **Visualização de vídeos:** VLC
 
-*Tempo despendido 20 minutos. A selecionar e a limpar software menos importante 2,5 recuperados*
+*Tempo despendido 20 minutos. A selecionar e a limpar software menos importante - 2,5 recuperados*
 
 #### Dia 20
 
