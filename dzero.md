@@ -8,6 +8,33 @@ title: Desafios Zero
 
 **Objectivo:** Criar espaço durante os próximos 30 dias para o novo ano de 2014 pela organização, simplificação e subtracção.
 
+Este desafio alongou-se deviado às festividades. 
+
+#### Dia 21 
+
+Levantamento dos programas que utilizo e eliminação daqueles que não preciso.
+
+Ficou esta lista ainda a melhorar.
+
+**Processamento de texto:** Pages / Byword
+**Folha de Cálculo:** Numbers 
+**Apresentação** Keynote
+**Som e gravação de podcasts:** Audacity
+**Edição do blog e editor de texto:** Sublime Text 2
+**Edição de imagem:** GIMP
+**Conversão de vídeo:** Handbrake
+**Edição de vídeo:** Imovie
+**Mind Maps:** MIndnode pro
+**Cloud:** Github e Copy
+**Ferramenta de publicação:** Git
+**Visualização de vídeos:** VLC
+
+*Tempo despendido 20 minutos. A selecionar e a limpar software menos importante 2,5 recuperados*
+
+#### Dia 20
+
+(Dia 5 de Janeiro) Limpeza total da casa. Para preparar o novo anolectivo de aulas. *Tempo despendido 4 horas.*
+
 #### Dia 19 
 
 A época festiva trás desafios de continuidade. Hoje limpei papeis de embrulho, talões e cartões de boas festas.  *Tempo despendido 5 minutos.*
