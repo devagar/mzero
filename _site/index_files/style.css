@@ -77,17 +77,26 @@ h3 {
 strong {
   font-weight: 500;
 }
-p,
+
+p {
+  font-weight: 300;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  }
+
 li,
 .button {
   font-weight: 300;
-  font-size: 1.2em;
-  line-height: 1.4em;
+  font-size: 16px;
   font-family: "Open Sans", sans-serif;
 }
-ul {
+
+ul, ol {
   list-style-type: square;
+  line-height: 21px;
+  font-size: 16px;
   margin-left: 2em;
+  font-family: "Open Sans", sans-serif;
 }
 pre {
   border: 1px solid #f5f5f5;

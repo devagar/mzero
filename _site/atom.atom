@@ -4,7 +4,7 @@
   <title>mZero</title>
   <link href="http://mzero.co/"/>
   <link type="application/atom+xml" rel="self" href="http://mzero.co/atom.atom"/>
-  <updated>2013-12-28T15:15:27+00:00</updated>
+  <updated>2014-01-28T15:23:22+01:00</updated>
   <id>http://mzero.co/</id>
   <author>
     <name>Lourenco de Azevedo</name>
@@ -13,11 +13,103 @@
 
   
   <entry>
+    <id>http://mzero.co/2014/01/28/reset</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2014/01/28/reset.html"/>
+    <title>Reboot!</title>
+    <published>2014-01-28T00:00:00+01:00</published>
+    <updated>2014-01-28T00:00:00+01:00</updated>
+    <author>
+      <name>"Lourenco de Azevedo"</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;p&gt;Podemos num computador tomar três acções: Recomeçar, Reiniciar, Reinstalar.&lt;/p&gt;
+
+&lt;p&gt;Recomeçar utiliza-se quando queremos ligar o computador. Tudo começa do início. Durante o dia de trabalho se o computador está lento muitas vezes ajuda a desligar e ligar.&lt;/p&gt;
+
+&lt;p&gt;Reiniciar é um utilizado quando o computador bloqueia e não responde e mais nada resulta.&lt;/p&gt;
+
+&lt;p&gt;Reinstalar torna-se necessário quando o sistema operativo está corrompido e nenhuma das outras hipóteses anteriores se mostra eficaz. Significa começar do zero.&lt;/p&gt;
+
+&lt;p&gt;Numa das últimas aulas de Chi Kung discutíamos o que nos fazia recomeçar.&lt;/p&gt;
+
+&lt;p&gt;Eu embora não seja fumador acredito que em alguns momentos a pausa para o cigarro possa ser recomeçar ou mesmo reiniciar.&lt;/p&gt;
+
+&lt;p&gt;Um aluno deu a ideia das maravilhas que um quadrado de chocolate pode fazer.&lt;/p&gt;
+
+&lt;p&gt;Embora ambas seja válidas existem de certo outras possibilidades mais simples, mais baratas e mais saudáveis.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dormir&lt;/li&gt;
+
+&lt;li&gt;Cozinhar&lt;/li&gt;
+
+&lt;li&gt;Exercício físico&lt;/li&gt;
+
+&lt;li&gt;Caminhar&lt;/li&gt;
+
+&lt;li&gt;Desconectar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;Como seres humanos acredito que no dia a dia consoante os desafios que encontramos podemos também, Recomeçar, Reiniciar e Reinstalar.&lt;/p&gt;
+
+&lt;p&gt;Mas em linguagem humana prefiro as palavras Parar, Recuperar e Reconstruir.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Parar&lt;/strong&gt; significa utilizar os pequenos momentos no dia a dia. Nem sempre é claro onde podemos parar no tsunami de afazeres que estão em alguns casos já presentes assim que o despertador toca. Mas quando observamos com atenção, existe aquele momento em que em vez de parar é escolhido consultar o telefone, ou a rede social, ou as horas, ou ligar a televisão quando se chega a casa, ou dizer uma piada quando o silêncio está disponível para ser aproveitado.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Recuperar&lt;/strong&gt; requer mais tempo e requer encontrar um contexto que seja possível recuperar do dia ou da semana ou de um momento pontual mais intenso. A tendência pode ser a de acreditar que recuperar está relacionado com algo que pode ser adquirido e que sem isso não é possível. Temos o que necessitamos para recuperar. Recuperar não significa apenas parar e desconectar. Passar algum tempo com família ou amigos é uma forma de recuperação. Existem também as actividades que nos nutrem e que nos colocam em contacto connosco. Essas actividades muitas vezes encontram-se esquecidas e só pelo facto de serem recuperadas trazem energia para toda a semana.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Reconstruir&lt;/strong&gt; implica não só uma acção mas várias que nos auxiliem a recuperar algo que em nós está esquecido. Ás vezes implica um afastamento das causas que nos desconectam da nossa essência. Reconstruir nem sempre é directo pois cada pessoa necessita de uma combinação de factores diferentes. Algo poderá ter de ser simplificado para que seja possível criar espaço para essa reconstrução. Pode levar tempo e é de certo útil fazer uso dos dois processos anteriores. Parar e Recuperar. Pode ser necessário estudar mais ou pedir ajuda especializada - Ou ambos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Quais são os vossos métodos de criação de possibilidades?&lt;/p&gt;
+
+&lt;p&gt;O que estão a viver neste momento que possa requerer, parar, recuperar ou reconstruir?&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://mzero.co/2014/01/14/facebook</id>
+    <link type="text/html" rel="alternate" href="http://mzero.co/2014/01/14/facebook.html"/>
+    <title>Como deixar o facebook em três parágrafos</title>
+    <published>2014-01-14T00:00:00+01:00</published>
+    <updated>2014-01-14T00:00:00+01:00</updated>
+    <author>
+      <name>"Lourenco de Azevedo"</name>
+      <uri>http://mzero.co</uri>
+    </author>
+    <content type="html">&lt;ol&gt;
+&lt;li&gt;Deixar de Publicar&lt;/li&gt;
+
+&lt;li&gt;Deixar de Comentar&lt;/li&gt;
+
+&lt;li&gt;Deixar de Gostar&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Se aceitarem o desafio escrevam-me a contar como foi.&lt;/p&gt;
+
+&lt;p&gt;#&lt;/p&gt;
+
+&lt;p&gt;Quais são as vossas ambições e o que gostariam de fazer de diferente para 2014?&lt;/p&gt;
+
+&lt;p&gt;Basta responder a este email.&lt;/p&gt;
+
+&lt;p&gt;Um ano feliz para todos à medida das vossas expectativas.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
     <id>http://mzero.co/2013/12/20/substitutos</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/12/20/substitutos.html"/>
     <title>Bifes de seitan</title>
-    <published>2013-12-20T00:00:00+00:00</published>
-    <updated>2013-12-20T00:00:00+00:00</updated>
+    <published>2013-12-20T00:00:00+01:00</published>
+    <updated>2013-12-20T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -79,8 +171,8 @@
     <id>http://mzero.co/2013/11/29/box</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/11/29/box.html"/>
     <title>Out of the box</title>
-    <published>2013-11-29T00:00:00+00:00</published>
-    <updated>2013-11-29T00:00:00+00:00</updated>
+    <published>2013-11-29T00:00:00+01:00</published>
+    <updated>2013-11-29T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -122,8 +214,8 @@
     <id>http://mzero.co/2013/11/15/acabar</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/11/15/acabar.html"/>
     <title>Hoje terminei</title>
-    <published>2013-11-15T00:00:00+00:00</published>
-    <updated>2013-11-15T00:00:00+00:00</updated>
+    <published>2013-11-15T00:00:00+01:00</published>
+    <updated>2013-11-15T00:00:00+01:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -165,8 +257,8 @@
     <id>http://mzero.co/2013/10/24/escolha</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/10/24/escolha.html"/>
     <title>Em vez de...</title>
-    <published>2013-10-24T00:00:00+01:00</published>
-    <updated>2013-10-24T00:00:00+01:00</updated>
+    <published>2013-10-24T00:00:00+02:00</published>
+    <updated>2013-10-24T00:00:00+02:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -196,8 +288,8 @@
     <id>http://mzero.co/2013/08/25/goji</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/08/25/goji.html"/>
     <title>A Mentalidade Goji Berry</title>
-    <published>2013-08-25T00:00:00+01:00</published>
-    <updated>2013-08-25T00:00:00+01:00</updated>
+    <published>2013-08-25T00:00:00+02:00</published>
+    <updated>2013-08-25T00:00:00+02:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -251,8 +343,8 @@
     <id>http://mzero.co/2013/08/10/coisa</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/08/10/coisa.html"/>
     <title>Só mais uma coisa...</title>
-    <published>2013-08-10T00:00:00+01:00</published>
-    <updated>2013-08-10T00:00:00+01:00</updated>
+    <published>2013-08-10T00:00:00+02:00</published>
+    <updated>2013-08-10T00:00:00+02:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -278,8 +370,8 @@
     <id>http://mzero.co/2013/08/09/emagrecer</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/08/09/emagrecer.html"/>
     <title>Emagrecer e simplificar</title>
-    <published>2013-08-09T00:00:00+01:00</published>
-    <updated>2013-08-09T00:00:00+01:00</updated>
+    <published>2013-08-09T00:00:00+02:00</published>
+    <updated>2013-08-09T00:00:00+02:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -355,8 +447,8 @@
     <id>http://mzero.co/2013/07/15/recomecar</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/07/15/recomecar.html"/>
     <title>Recomeçar</title>
-    <published>2013-07-15T00:00:00+01:00</published>
-    <updated>2013-07-15T00:00:00+01:00</updated>
+    <published>2013-07-15T00:00:00+02:00</published>
+    <updated>2013-07-15T00:00:00+02:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -394,8 +486,8 @@
     <id>http://mzero.co/2013/06/24/vicaria</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/24/vicaria.html"/>
     <title>Sabe o que significa Vicária?</title>
-    <published>2013-06-24T00:00:00+01:00</published>
-    <updated>2013-06-24T00:00:00+01:00</updated>
+    <published>2013-06-24T00:00:00+02:00</published>
+    <updated>2013-06-24T00:00:00+02:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>
@@ -431,8 +523,8 @@
     <id>http://mzero.co/2013/06/17/utilizador-criador</id>
     <link type="text/html" rel="alternate" href="http://mzero.co/2013/06/17/utilizador-criador.html"/>
     <title>Utilizador ou Criador?</title>
-    <published>2013-06-17T00:00:00+01:00</published>
-    <updated>2013-06-17T00:00:00+01:00</updated>
+    <published>2013-06-17T00:00:00+02:00</published>
+    <updated>2013-06-17T00:00:00+02:00</updated>
     <author>
       <name>"Lourenco de Azevedo"</name>
       <uri>http://mzero.co</uri>

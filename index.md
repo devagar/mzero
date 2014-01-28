@@ -7,7 +7,7 @@ title: mZero
     <div class='body'>
    {% for post in site.posts limit:1 %}
       	<h2>{{post.title}}</h2>
-      	{{ post.content }}
+      	    {{ post.content }}
     {% endfor %}
     </div>
 </div>

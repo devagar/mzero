@@ -15,7 +15,7 @@ layout: nil
     {% for post in site.posts %}
     <item>
       <title>{{ post.title }}</title>
-      <link>http://functionn.github.com{{ post.url }}</link>
+      <link>http://mZero.co{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>Lourenco de Azevedo</author>
       <guid>http://mZero.co{{ post.id }}</guid>
