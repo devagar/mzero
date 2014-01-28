@@ -81,13 +81,13 @@ p,
 li,
 .button {
   font-weight: 300;
-  font-size: 1.2em;
- /* line-height: 1.4em;*/
+  font-size: 16px;
+  line-height: 1.4em;
   font-family: "Open Sans", sans-serif;
 }
 ul {
   list-style-type: square;
-  font-size: 0.9em;
+  font-size: 18px;
   margin-left: 2em;
   font-family: "Open Sans", sans-serif;
 }
